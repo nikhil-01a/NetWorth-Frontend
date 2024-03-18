@@ -19,7 +19,7 @@
           "error",
           {
             "type": "attribute",
-            "prefix": "NetWorth",
+            "prefix": "networth",
             "style": "camelCase"
           }
         ],
@@ -27,7 +27,7 @@
           "error",
           {
             "type": "element",
-            "prefix": "NetWorth",
+            "prefix": "networth",
             "style": "kebab-case"
           }
         ],

@@ -12,7 +12,7 @@
       },
       "root": "",
       "sourceRoot": "src",
-      "prefix": "NetWorth",
+      "prefix": "networth",
       "architect": {
         "build": {
           "builder": "@angular-devkit/build-angular:application",
